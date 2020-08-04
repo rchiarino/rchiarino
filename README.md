@@ -34,3 +34,10 @@
 [instagram]: https://www.instagram.com/rexxchiarino/
 [glitch]: https://n0x-discord-bot.glitch.me
 [github]: https://github.com/rchiarino
+
+[vscode]: https://code.visualstudio.com
+[html5]: https://en.wikipedia.org/wiki/HTML5
+[css3]: https://en.wikipedia.org/wiki/Cascading_Style_Sheets
+[sass]: https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
+[js]: https://en.wikipedia.org/wiki/JavaScript
+[nodejs]: https://en.wikipedia.org/wiki/Node.js
