@@ -28,7 +28,6 @@
 
 <br />
 <br />
-<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rchiarino)](https://github.com/rchiarino/github-readme-stats)
 
