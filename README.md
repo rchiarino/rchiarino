@@ -10,6 +10,7 @@
 ### Connect with me:
 [<img align="left" alt="Renzo's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Renzo's | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Renzo's | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/discord.svg" />][discord]
 
 <br />
 
@@ -29,6 +30,8 @@
 <br />
 <br />
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rchiarino)](https://github.com/rchiarino/github-readme-stats)
+
 
 [twitter]: https://twitter.com/rexxchiarino
 [instagram]: https://www.instagram.com/rexxchiarino/
@@ -41,3 +44,5 @@
 [sass]: https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
 [js]: https://en.wikipedia.org/wiki/JavaScript
 [nodejs]: https://en.wikipedia.org/wiki/Node.js
+[discord]: https://discord.gg/DR4hUxR
+
