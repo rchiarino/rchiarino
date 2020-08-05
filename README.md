@@ -32,8 +32,6 @@
 
 ![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true)
 
-<img align="center" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true"/>
-
 
 
 
