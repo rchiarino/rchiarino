@@ -22,6 +22,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][cpp]
 
 
 <br />
@@ -34,6 +35,7 @@
 [instagram]: https://www.instagram.com/rexxchiarino/
 [glitch]: https://n0x-discord-bot.glitch.me
 [github]: https://github.com/rchiarino
+[discord]: https://discord.gg/DR4hUxR
 
 [vscode]: https://code.visualstudio.com
 [html5]: https://en.wikipedia.org/wiki/HTML5
@@ -41,5 +43,6 @@
 [sass]: https://en.wikipedia.org/wiki/Sass_(stylesheet_language)
 [js]: https://en.wikipedia.org/wiki/JavaScript
 [nodejs]: https://en.wikipedia.org/wiki/Node.js
-[discord]: https://discord.gg/DR4hUxR
+[cpp]: https://en.wikipedia.org/wiki/C%2B%2B
+
 
