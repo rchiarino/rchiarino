@@ -28,9 +28,9 @@
 <br />
 <br />
 
-<img align="center" alt="Renzo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino&layout=compact&theme=radical"/>
+<img align="center" alt="Renzo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino&layout=compact"/>
 
-<img align="center" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true&include_all_commits=true"/>
+<img align="center" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true"/>
 
 
 [twitter]: https://twitter.com/rexxchiarino
