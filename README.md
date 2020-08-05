@@ -32,6 +32,8 @@
 
 <img align="center" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true"/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino)]
+
 
 [twitter]: https://twitter.com/rexxchiarino
 [instagram]: https://www.instagram.com/rexxchiarino/
