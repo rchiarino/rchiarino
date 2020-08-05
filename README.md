@@ -28,7 +28,7 @@
 <br />
 <br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rchiarino)](https://github.com/rchiarino/github-readme-stats)
+<img align="left" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&show_icons=true&hide_border=true&count_private=true" />
 
 
 [twitter]: https://twitter.com/rexxchiarino
