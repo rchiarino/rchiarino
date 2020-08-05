@@ -28,7 +28,7 @@
 <br />
 <br />
 
-<img align="left" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true"/>
 
 
 [twitter]: https://twitter.com/rexxchiarino
