@@ -28,7 +28,9 @@
 <br />
 <br />
 
-<img align="left" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true"/>
+<img align="center" alt="Renzo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino&layout=compact&theme=radical"/>
+
+<img align="center" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true&include_all_commits=true"/>
 
 
 [twitter]: https://twitter.com/rexxchiarino
