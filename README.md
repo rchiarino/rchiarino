@@ -32,9 +32,6 @@
 
 ![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true" alt="Renzo's github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino&layout=compact" alt="Renzo's github languages" />
 
 
 [twitter]: https://twitter.com/rexxchiarino
