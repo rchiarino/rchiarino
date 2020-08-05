@@ -28,11 +28,13 @@
 <br />
 <br />
 
-<img align="center" alt="Renzo's Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino&layout=compact"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino)
+
+![Renzo's github stats](https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true)
 
 <img align="center" alt="Renzo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino)]
+
 
 
 [twitter]: https://twitter.com/rexxchiarino
