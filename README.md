@@ -6,6 +6,7 @@
 - 🤖 I’m currently developing a side project [Discord Bot][glitch]. 
 - 📚 I’m currently studying software engineer.
 - 🧑‍🤝‍🧑 I’m looking to collaborate with other developers.
+- hola esto es una prueba.
 
 
 ### Connect with me:
