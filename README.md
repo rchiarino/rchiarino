@@ -1,7 +1,7 @@
 ### Hi there, I'm Renzo
 
 ## I'm a Student, Developer, and Photographer!
-- ⚙️ I’m currently working on Web Design & Development!
+- ⚙️ I’m currently working on [Web Design & Development][www]!
 - 🏠 I’m currently developing a side project [Home Automatization System][has]. 
 - 🤖 I’m currently developing a side project [Discord Bot][glitch]. 
 - 📚 I’m currently studying software engineer.
@@ -47,6 +47,7 @@
 [instagram]: https://www.instagram.com/rexxchiarino
 [discord]: https://discord.gg/DR4hUxR
 
+[www]: https://www.palmerasdeluruguay.com.uy
 [glitch]: https://n0x-discord-bot.glitch.me
 [github]: https://github.com/rchiarino
 [firebase]: https://firebase.google.com
