@@ -37,9 +37,9 @@
 <br />
 <br />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rchiarino)
+![Top Languages](https://github-readme-stats.rchiarino.vercel.app/api/top-langs/?username=rchiarino)
 
-![Renzo's Github Stats](https://github-readme-stats.vercel.app/api?username=rchiarino&count_private=true)
+![Renzo's Github Stats](https://github-readme-stats.rchiarino.vercel.app/api?username=rchiarino&count_private=true)
 
 
 
