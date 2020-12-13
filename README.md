@@ -4,7 +4,11 @@
                                               ╚════════════╝
 </h1>
 
-## I'm a Student, Developer, and Photographer!
+<h2 align="center">                           ╔═════════════¤═════════════╗
+                                 <br> ╠ ‏  ⠀Student ░ Developer ░ Photographer‎ ‏ ‏ ╣ <br>
+                                              ╚═════════════¤═════════════╝
+</h2>
+
 - ⚙️ I’m currently working on [Web Design & Development][www]! 
 - 🤖 I’m currently developing a side project [Discord Bot][glitch]. 
 - 📚 I’m currently studying software engineer.
