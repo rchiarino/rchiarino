@@ -1,11 +1,9 @@
 ### Hi there, I'm Renzo
 
 ## I'm a Student, Developer, and Photographer!
-- ⚙️ I’m currently working on [Web Design & Development][www]!
-- 🏠 I’m currently developing a side project [Home Automatization System][has]. 
+- ⚙️ I’m currently working on [Web Design & Development][www]! 
 - 🤖 I’m currently developing a side project [Discord Bot][glitch]. 
 - 📚 I’m currently studying software engineer.
-- 🧑‍🤝‍🧑 I’m looking to collaborate with other developers.
 
 
 <br />
@@ -55,6 +53,6 @@
 [js]: https://en.wikipedia.org/wiki/JavaScript
 [nodejs]: https://en.wikipedia.org/wiki/Node.js
 [cpp]: https://en.wikipedia.org/wiki/C%2B%2B
-[has]: https://github.com/rchiarino/H.A.S.
+
 
 
