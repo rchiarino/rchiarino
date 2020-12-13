@@ -1,4 +1,8 @@
-### Hi there, I'm Renzo
+
+<h1 align="center">                           ╔════════════╗
+                                  <br> ╠‏ ‏ ‏ Renzo Chiarino ‏ ‏ ‏╣ <br>
+                                              ╚════════════╝
+</h1>
 
 ## I'm a Student, Developer, and Photographer!
 - ⚙️ I’m currently working on [Web Design & Development][www]! 
@@ -35,7 +39,7 @@
 
 
 
-[twitter]: https://twitter.com/rexxchiarino
+[twitter]: https://twitter.com/rexxchiarino═
 [instagram]: https://www.instagram.com/rexxchiarino
 [discord]: https://discord.gg/DR4hUxR
 
