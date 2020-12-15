@@ -9,14 +9,13 @@
                                               ╚═════════════¤═════════════╝
 </h2>
 
+<br>
+
 <p align="center"> ⚙️ I’m currently working on <a href="https://www.palmerasdeluruguay.com.uy" target="_top">Web Design & Development</a>! </p>
 
 <p align="center"> 🤖 I’m currently developing a side project <a href="https://n0x-discord-bot.glitch.me" target="_top">Discord Bot</a>. </p>  
 
 <p align="center"> 📚 I’m currently studying software engineer. </p>
-
-
-
 
 <br />
 <br />
@@ -42,18 +41,7 @@
 <br />
 <br />
 
-<p align="center">
-<img alt="Top Languages" src="https://github-readme-stats.rchiarino.vercel.app/api/top-langs/?username=rchiarino&layout=compact" />
-</p>
-
-
-
-[twitter]: https://twitter.com/rexxchiarino═
-[instagram]: https://www.instagram.com/rexxchiarino
-[discord]: https://discord.gg/DR4hUxR
-
-[www]: 
-[glitch]: 
+<p align="center"> <img alt="Top Languages" src="https://github-readme-stats.rchiarino.vercel.app/api/top-langs/?username=rchiarino&layout=compact" /> </p>
 
 
 
