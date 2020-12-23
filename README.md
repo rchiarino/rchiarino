@@ -1,13 +1,7 @@
 
-<h1 align="center">                           ╔════════════╗
-                                  <br> ╠‏ ‏ ‏ Renzo Chiarino ‏ ‏ ‏╣ <br>
-                                              ╚════════════╝
-</h1>
+<h1 align="center">Renzo Chiarino</h1>
 
-<h2 align="center">                           ╔═════════════¤═════════════╗
-                                 <br> ╠ ‏  ⠀Student ░ Developer ░ Photographer‎ ‏ ‏ ╣ <br>
-                                              ╚═════════════¤═════════════╝
-</h2>
+<h3 align="center">Student  Developer  Photographer</h3>
 
 <br>
 
