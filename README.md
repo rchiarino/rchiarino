@@ -36,8 +36,6 @@
 <br />
 <br />
 
-<p align="center"> <img alt="Top Languages" src="https://github-readme-stats.rchiarino.vercel.app/api/top-langs/?username=rchiarino&layout=compact" /> </p>
-
 
 
 
