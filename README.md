@@ -5,10 +5,6 @@
 
 <br>
 
-<p align="center"> ⚙️ I’m currently working on <a href="https://www.palmerasdeluruguay.com.uy" target="_top">Web Design & Development</a>! </p>
-
-<p align="center"> 🤖 I’m currently developing a side project <a href="https://n0x-discord-bot.glitch.me" target="_top">Discord Bot</a>. </p>  
-
 <p align="center"> 📚 I’m currently studying software engineer. </p>
 
 <br />
